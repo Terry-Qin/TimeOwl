@@ -1,0 +1,68 @@
+{
+    "app_name": "TimeOwl",
+    "today_stats": "今日统计",
+    "active_time": "活跃时间",
+    "total_active_time": "总活跃时间",
+    "total": "总计",
+    "no_data": "暂无数据",
+    "categories": {
+        "work": "工作",
+        "learning": "学习",
+        "social": "社交",
+        "entertainment": "娱乐",
+        "shopping": "购物",
+        "news": "新闻",
+        "productivity": "生产力",
+        "ai": "AI 工具",
+        "other": "其他"
+    },
+    "settings": {
+        "title": "设置",
+        "language": "语言",
+        "english": "English",
+        "chinese": "中文",
+        "ai_config": "AI 配置",
+        "provider": "API 提供商",
+        "api_key": "API Key",
+        "model": "模型名称",
+        "base_url": "API Base URL",
+        "save": "保存设置",
+        "saved": "设置已保存！"
+    },
+    "open_dashboard": "打开仪表盘",
+    "dashboard": {
+        "title": "仪表盘",
+        "productivity_score": "生产力评分",
+        "time_distribution": "时间分布",
+        "top_sites": "常访网站",
+        "trends": "趋势",
+        "history_trend": "历史趋势",
+        "history_7_days": "过去7天",
+        "average": "平均值",
+        "range": {
+            "today": "今日",
+            "3d": "近3天",
+            "7d": "近7天",
+            "30d": "近30天"
+        },
+        "table": {
+            "site": "网站",
+            "category": "分类",
+            "active_time": "活跃时长",
+            "idle_time": "闲置时长"
+        },
+        "ai": {
+            "title": "AI 洞察 (需配置)",
+            "setup_desc": "请在扩展程序弹出窗口的设置中配置 API Key 以启用每日洞察。",
+            "open_popup_hint": "请点击浏览器右上角的 TimeOwl 图标打开设置。",
+            "configure": "去配置",
+            "daily_insight": "每日洞察",
+            "generate": "生成分析",
+            "regenerate": "重新生成",
+            "analyzing": "分析中...",
+            "thinking": "AI 正在思考您的时间使用情况...",
+            "placeholder": "点击上方按钮生成今日的时间管理建议。",
+            "no_key": "未检测到 API Key，请先配置。"
+        }
+    }
+}

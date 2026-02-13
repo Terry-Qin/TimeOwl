@@ -1,0 +1,10 @@
+{
+    "app_name": {
+        "message": "TimeOwl",
+        "description": "The name of the extension"
+    },
+    "app_description": {
+        "message": "A privacy-first browser time tracker.",
+        "description": "The description of the extension"
+    }
+}

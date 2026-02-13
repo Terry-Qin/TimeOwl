@@ -1,0 +1,68 @@
+{
+    "app_name": "TimeOwl",
+    "today_stats": "Today's Stats",
+    "active_time": "Active Time",
+    "total_active_time": "Total Active Time",
+    "total": "Total",
+    "no_data": "No data yet",
+    "categories": {
+        "work": "Work",
+        "learning": "Learning",
+        "social": "Social",
+        "entertainment": "Entertainment",
+        "shopping": "Shopping",
+        "news": "News",
+        "productivity": "Productivity",
+        "ai": "AI Tools",
+        "other": "Other"
+    },
+    "settings": {
+        "title": "Settings",
+        "language": "Language",
+        "english": "English",
+        "chinese": "中文",
+        "ai_config": "AI Configuration",
+        "provider": "API Provider",
+        "api_key": "API Key",
+        "model": "Model Name",
+        "base_url": "API Base URL",
+        "save": "Save Settings",
+        "saved": "Settings Saved!"
+    },
+    "open_dashboard": "Open Dashboard",
+    "dashboard": {
+        "title": "Dashboard",
+        "productivity_score": "Productivity Score",
+        "time_distribution": "Time Distribution",
+        "top_sites": "Top Sites",
+        "trends": "Trends",
+        "history_trend": "History Trend",
+        "history_7_days": "Last 7 Days",
+        "average": "Average",
+        "range": {
+            "today": "Today",
+            "3d": "Last 3 Days",
+            "7d": "Last 7 Days",
+            "30d": "Last 30 Days"
+        },
+        "table": {
+            "site": "Site",
+            "category": "Category",
+            "active_time": "Active Time",
+            "idle_time": "Idle Time"
+        },
+        "ai": {
+            "title": "AI Insights (Requires Setup)",
+            "setup_desc": "Please configure your API Key in the extension popup settings to enable daily insights.",
+            "open_popup_hint": "Click the TimeOwl icon in your browser toolbar to open settings.",
+            "configure": "Configure",
+            "daily_insight": "Daily Insight",
+            "generate": "Generate Analysis",
+            "regenerate": "Regenerate",
+            "analyzing": "Analyzing...",
+            "thinking": "AI is analyzing your time usage...",
+            "placeholder": "Click the button above to generate time management tips for today.",
+            "no_key": "API Key not found. Please configure it first."
+        }
+    }
+}
