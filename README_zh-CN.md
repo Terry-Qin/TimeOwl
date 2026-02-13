@@ -1,5 +1,7 @@
 <h1 align="center">
-  🦉 TimeOwl (时间猫头鹰)
+  <img src="public/icons/icon128.png" alt="TimeOwl Logo" width="128" height="128" />
+  <br />
+  TimeOwl (时间猫头鹰)
 </h1>
 
 <p align="center">

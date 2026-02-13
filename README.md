@@ -1,5 +1,7 @@
 <h1 align="center">
-  🦉 TimeOwl
+  <img src="public/icons/icon128.png" alt="TimeOwl Logo" width="128" height="128" />
+  <br />
+  TimeOwl
 </h1>
 
 <p align="center">
